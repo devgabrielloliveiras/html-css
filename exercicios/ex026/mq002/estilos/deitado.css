@@ -3,3 +3,8 @@
 /*
 Configurações para dispositivos deitado, paisagem, modo landscape
 */
+
+body {
+    background: url(../imagens/cev-landscape.jpg);
+    background-position: left bottom;
+}

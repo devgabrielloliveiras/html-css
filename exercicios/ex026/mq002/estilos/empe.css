@@ -3,3 +3,8 @@
 /*
 Configurações para dispositivos em pé, modo portrait
 */
+
+body {
+    background: url(../imagens/cev-portrait.jpg);
+    background-position: center bottom; 
+}
